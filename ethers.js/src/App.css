@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Contract-methods{
+  display: flex;
+  gap: 15px;
+}
+
+.num-input{
+  width: 60px;
+  margin-left: 10px;
+  outline: none;
+}
